@@ -1,1 +1,2 @@
-
+GitHub repository for the Coursera Python Cap project in the course of IBM Data Analyst. 
+Main objective is processing data using pandas and request libraries, web-scraping and creating a dashboard using the plotting function provided. Although we could have used the Beautifoulsoup package to extract the tables from the webs provided, pandas read_html function was use in order to use fewer lines of code. Package yfinance is used to access stock prices, revenue is scraped from the web. We focus on data from Tesla and GameStop companies. 
